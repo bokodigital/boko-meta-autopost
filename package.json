@@ -1,0 +1,14 @@
+{
+  "name": "boko-meta-autopost",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Boko Digital — Meta (Facebook + Instagram) auto-posting scheduler.",
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start" },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "@vercel/blob": "0.27.0"
+  },
+  "engines": { "node": ">=18.17.0" }
+}
